@@ -24,7 +24,7 @@ JavaScript (ES6+)
 
 HTML5 / SCSS
 
-Vite (или другой сборщик)
+Vite
 
 Web API (события keydown)
 
