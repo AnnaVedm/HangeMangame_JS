@@ -20,7 +20,7 @@
 
 ## Используемые технологии
 
-JavaScript (ES6+)
+TypeScript
 
 HTML5 / SCSS
 
